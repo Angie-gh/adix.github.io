@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Hello!  I'm malcolm. 
 
-You can use the [editor on GitHub](https://github.com/Angie-gh/adix.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Introduction 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##College Experience
+
+##Computer Experience
+Why are you in this class?
+What might prevent you from doing well in this class?
+What's the most important thing in your life?
+Something interesting about yourself
 
 ### Markdown
 
