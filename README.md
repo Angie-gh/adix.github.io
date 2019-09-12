@@ -2,9 +2,9 @@
 
 # Introduction 
 
-##College Experience
+## College Experience
 
-##Computer Experience
+## Computer Experience
 Why are you in this class?
 What might prevent you from doing well in this class?
 What's the most important thing in your life?
