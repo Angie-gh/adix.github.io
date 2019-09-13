@@ -2,7 +2,7 @@
 
 # Introduction 
 
-## College Experience
+### College Experience
 I've taken previous IT college courses.
 
 ## Computer Experience
