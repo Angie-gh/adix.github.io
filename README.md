@@ -22,6 +22,7 @@ Being **honest**, **kind** and **finding happiness** each day is the most import
 ## Interests
 I enjoy travel. _(But not to cold climates!)_
 One of the most useful sites for travel planning is [Tripadvisor](https://www.tripadvisor.com/). 
+
 *********************************************************************************** 
 
 ### Other web pages that I will be using:
