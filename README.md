@@ -7,7 +7,7 @@
 I've taken previous IT college courses.
 
 ## Computer Experience
-I've had jobs in the computing industry.
+I've had jobs in the computer industry.
 
 ## Reason for taking the class
 To be able to write security-related scripts and automate IoT devices.
