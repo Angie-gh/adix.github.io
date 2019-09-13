@@ -1,4 +1,4 @@
-## Hello I'm Angie!
+## Hello I'm Angie! :nerd_face:
 
 # Introduction
 *********************************************************************************** 
@@ -20,7 +20,7 @@ I might not do well in the course.
 Being **honest**, **kind** and **finding happiness** each day is the most important thing.
 
 ## Interests
-I enjoy travel. _(But not to cold climates!)_
+I enjoy travel. _(But not to cold climates!)_  :rowing_woman: :swimming_woman: :biking_woman: <br/>
 One of the most useful sites for travel planning is [Tripadvisor](https://www.tripadvisor.com/). 
 
 *********************************************************************************** 
@@ -33,7 +33,7 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 - Python Hackathon
 
 
-[Link](url) and ![Image](Koala.jpg)
+![Favorite Animal](Koala.jpg)
 
 
 ```markdown
