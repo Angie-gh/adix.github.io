@@ -17,8 +17,8 @@ To be able to write scripts and automate IoT devices.
 
 ## What might prevent you from doing well in this class?
 ```markdown
-I need to stay on top of the reading, observe the lecture and ask questions <br>
-otherwise I might not do well in the class.
+I need to stay on top of the reading, listen while in class and ask questions otherwise 
+I might not do well in the course.
 ```
 
 ## What's the most important thing in your life?
