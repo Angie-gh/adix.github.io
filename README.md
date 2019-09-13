@@ -3,12 +3,22 @@
 # Introduction 
 
 ## College Experience
+I've taken previous IT college courses.
 
 ## Computer Experience
-Why are you in this class?
-What might prevent you from doing well in this class?
-What's the most important thing in your life?
-Something interesting about yourself
+I've had jobs in the computing industry.
+
+##Why are you in this class?
+To be able to write scripts and automate IoT devices.
+
+##What might prevent you from doing well in this class?
+I need to stay on top of the reading and review the examples.
+
+##What's the most important thing in your life?
+Being honest and kind is the most important thing.
+
+##Interests
+I enjoy travel.
 
 ### Markdown
 
@@ -34,10 +44,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Sample URL
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Angie-gh/adix.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+One of the most useful sites for travel planning is [Tripadvisor](https://www.tripadvisor.com/). 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
