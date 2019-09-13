@@ -9,7 +9,7 @@ I've taken previous IT college courses.
 ## Computer Experience
 I've had jobs in the computing industry.
 
-## Why are you in this class?
+## Reason for taking the class
 To be able to write security-related scripts and automate IoT devices.
 
 ## What might prevent success in an IT class
