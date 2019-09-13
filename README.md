@@ -6,7 +6,8 @@
 I've taken previous IT college courses.
 
 ## Computer Experience
-```I've had jobs in the computing industry.
+```markdown
+I've had jobs in the computing industry.
 ```
 
 ## Why are you in this class?
