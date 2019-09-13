@@ -13,7 +13,7 @@ I've had jobs in the computing industry.
 To be able to write security-related scripts and automate IoT devices.
 
 ## What might prevent success in an IT class
-I need to stay on top of the reading, listen while in class and ask questions otherwise 
+I need to read the chapters, listen while in class and ask questions otherwise 
 I might not do well in the course.
 
 ## The most important thing in life
