@@ -1,6 +1,6 @@
 ## Hello I'm Angie!
 
-#Introduction
+###Introduction
 *********************************************************************************** 
 
 ## College Experience
