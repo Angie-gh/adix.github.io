@@ -33,7 +33,7 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 - Python Hackathon
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](Koala.jpg)
 
 
 ```markdown
