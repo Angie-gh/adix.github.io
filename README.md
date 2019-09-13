@@ -27,10 +27,10 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 
 ### Other web pages that I will be using:
 - [Fundamentals of Programming in Python](https://angie-gh.github.io/adix.github.io/fundamentals_python.md)
-- Internet of Things (IoT)
-- Secure Scripting
-- Data Analytics
-- Python Hackathon
+- [Internet of Things (IoT)](https://angie-gh.github.io/adix.github.io/iot.md)
+- [Secure Scripting](https://angie-gh.github.io/adix.github.io/sec_script.md)
+- [Data Analytics](https://angie-gh.github.io/adix.github.io/data_analytics.md)
+- [Python Hackathon](https://angie-gh.github.io/adix.github.io/hackathon.md)
 
 
 ![Favorite Animal](Koala.jpg)
