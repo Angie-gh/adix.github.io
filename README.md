@@ -1,4 +1,4 @@
-## Hello!  I'm malcolm. 
+## Hello!  I'm Angie! 
 
 # Introduction 
 
@@ -11,20 +11,24 @@ I've had jobs in the computing industry.
 ```
 
 ## Why are you in this class?
+```markdown
 To be able to write scripts and automate IoT devices.
+```
 
 ## What might prevent you from doing well in this class?
-I need to stay on top of the reading and review the examples.
+```markdown
+I need to stay on top of the reading, observe the lecture and ask questions otherwise I might not do well in the class.
+```
 
 ## What's the most important thing in your life?
+```markdown
 Being honest and kind is the most important thing.
+```
 
 ## Interests
+```markdown
 I enjoy travel.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
 
 ```markdown
 Syntax highlighted code block
