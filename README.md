@@ -1,4 +1,4 @@
-## Hello I'm Angie! :nerd_face:
+## Hello I'm Angie! 
 
 # Introduction
 *********************************************************************************** 
@@ -20,7 +20,7 @@ I might not do well in the course.
 Being **honest**, **kind** and **finding happiness** each day is the most important thing.
 
 ## Interests
-I enjoy travel. _(But not to cold climates!)_  :rowing_woman: :swimming_woman: :biking_woman: <br/>
+I enjoy travel. _(But not to cold climates!)_  <br/>
 One of the most useful sites for travel planning is [Tripadvisor](https://www.tripadvisor.com/). 
 
 *********************************************************************************** 
@@ -35,7 +35,7 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 
 ![Favorite Animal](Koala.jpg)
 <br/>
-<center><img src="Koala.jpg" width="600" height="450"></center>
+<center><img src="Koala.jpg" width="600" height="450" class="center"></center>
 
 ```markdown
 DISCLAIMER:  Most of the above information is intentionally not very specific.  
