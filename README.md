@@ -12,7 +12,7 @@ I've had jobs in the computing industry.
 
 ## Why are you in this class?
 ```markdown
-To be able to write scripts and automate IoT devices.
+To be able to write security-related scripts and automate IoT devices.
 ```
 
 ## What might prevent you from doing well in this class?
@@ -31,8 +31,7 @@ Being honest, kind and finding happiness each day is the most important thing.
 I enjoy travel.
 ```
 
-```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
@@ -47,7 +46,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
