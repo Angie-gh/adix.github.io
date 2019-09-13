@@ -6,7 +6,8 @@
 I've taken previous IT college courses.
 
 ## Computer Experience
-I've had jobs in the computing industry.
+```I've had jobs in the computing industry.
+```
 
 ## Why are you in this class?
 To be able to write scripts and automate IoT devices.
