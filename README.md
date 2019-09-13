@@ -23,12 +23,12 @@ I might not do well in the course.
 
 ## What's the most important thing in your life?
 ```markdown
-Being honest, kind and finding happiness each day is the most important thing.
+Being **honest**, **kind** and **finding** happiness each day is the most important thing.
 ```
 
 ## Interests
 ```markdown
-I enjoy travel.
+I enjoy travel. _(But not to cold climates!)_
 ```
 
 
@@ -48,7 +48,6 @@ I enjoy travel.
 [Link](url) and ![Image](src)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Sample URL
 
