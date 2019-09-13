@@ -1,4 +1,7 @@
-## Hello!  I'm Angie and here is a little Introduction about me! 
+## Hello I'm Angie!
+
+#Introduction
+*********************************************************************************** 
 
 ## College Experience
 I've taken previous IT college courses.
