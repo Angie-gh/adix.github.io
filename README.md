@@ -8,16 +8,16 @@ I've taken previous IT college courses.
 ## Computer Experience
 I've had jobs in the computing industry.
 
-##Why are you in this class?
+## Why are you in this class?
 To be able to write scripts and automate IoT devices.
 
-##What might prevent you from doing well in this class?
+## What might prevent you from doing well in this class?
 I need to stay on top of the reading and review the examples.
 
-##What's the most important thing in your life?
+## What's the most important thing in your life?
 Being honest and kind is the most important thing.
 
-##Interests
+## Interests
 I enjoy travel.
 
 ### Markdown
