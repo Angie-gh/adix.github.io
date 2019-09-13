@@ -37,9 +37,9 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 
 [Link](url) and ![Image](src)
 
-Disclaimer
+
 ```markdown
-Most of the above information is not very specific.  
+DISCLAIMER:  Most of the above information is intentionally not very specific.  
 ```
 
 
