@@ -3,35 +3,24 @@
 # Introduction 
 
 ## College Experience
-```markdown
 I've taken previous IT college courses.
-```
 
 ## Computer Experience
-```markdown
 I've had jobs in the computing industry.
-```
 
 ## Why are you in this class?
-```markdown
 To be able to write security-related scripts and automate IoT devices.
-```
 
 ## What might prevent success in an IT class
-```markdown
 I need to stay on top of the reading, listen while in class and ask questions otherwise 
 I might not do well in the course.
-```
 
 ## The most important thing in life
-```markdown
 Being **honest**, **kind** and **finding** happiness each day is the most important thing.
-```
 
 ## Interests
 I enjoy travel. _(But not to cold climates!)_
 One of the most useful sites for travel planning is [Tripadvisor](https://www.tripadvisor.com/). 
-
 
 
 ### Other web pages that I will be using:
