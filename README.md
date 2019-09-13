@@ -35,7 +35,7 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 
 ![Favorite Animal](Koala.jpg)
 <br/>
-<center><img src="Koala.jpg" width="600" height="450" class="center"></center>
+<img src="Koala.jpg" width="500" height="250" class="center">
 
 ```markdown
 DISCLAIMER:  Most of the above information is intentionally not very specific.  
