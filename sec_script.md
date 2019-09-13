@@ -1,1 +1,1 @@
-This is security scripting
+This is Secure Scripting
