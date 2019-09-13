@@ -2,6 +2,8 @@
 
 # Introduction 
 
+Below are some facts about me
+
 ## College Experience
 I've taken previous IT college courses.
 
@@ -35,10 +37,10 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 
 [Link](url) and ![Image](src)
 
+Disclaimer
+```markdown
+Most of the above information is not very specific.  
+```
 
-
-### Sample URL
-
-One of the most useful sites for travel planning is [Tripadvisor](https://www.tripadvisor.com/). 
 
 
