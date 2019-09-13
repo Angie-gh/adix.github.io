@@ -1,8 +1,4 @@
-## Hello!  I'm Angie! 
-
-# Introduction 
-
-Below are some facts about me
+## Hello!  I'm Angie and here is a little Introduction about me! 
 
 ## College Experience
 I've taken previous IT college courses.
@@ -32,8 +28,6 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 - Data Analytics
 - Python Hackathon
 
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
