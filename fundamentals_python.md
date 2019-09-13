@@ -1,1 +1,1 @@
-This is the fundamentals of Python
+This is the Fundamentals of Programming in Python
