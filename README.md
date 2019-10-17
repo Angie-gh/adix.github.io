@@ -26,7 +26,7 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 *********************************************************************************** 
 
 ### Other web pages that I will be using:
-- [Fundamentals of Programming in Python](https://angie-gh.github.io/adix.github.io/fundamentals_python.md)
+- [Unit1 - Fundamentals of Programming in Python](https://angie-gh.github.io/unit1/)
 - [Internet of Things (IoT)](https://angie-gh.github.io/adix.github.io/iot.md)
 - [Secure Scripting](https://angie-gh.github.io/adix.github.io/sec_script.md)
 - [Data Analytics](https://angie-gh.github.io/adix.github.io/data_analytics.md)
