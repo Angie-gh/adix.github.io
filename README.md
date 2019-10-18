@@ -3,10 +3,10 @@
 # Introduction
 *********************************************************************************** 
 
-### College Experience
+### College Experience1
 I've taken previous IT college courses.
 
-## Computer Experience
+### Computer Experience1
 I've had jobs in the computer industry.
 
 ## Reason for taking the class
