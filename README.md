@@ -1,7 +1,6 @@
 ## Hello I'm Angie! 
 
 # Introduction:
-# It's all about me
 *********************************************************************************** 
 
 **College Experience**<br/>
