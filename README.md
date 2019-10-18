@@ -25,8 +25,8 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 
 *********************************************************************************** 
 
-## Reflections
-- [Unit 1 - Reflections Programming in Python](https://angie-gh.github.io/unit1/)
+
+## [Unit 1 - Reflections Programming in Python](https://angie-gh.github.io/unit1/)
 
 ## Future Topics
 - [Internet of Things (IoT)](https://angie-gh.github.io/adix.github.io/iot.md)
