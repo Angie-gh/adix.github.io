@@ -1,6 +1,7 @@
 ## Hello I'm Angie! 
 
-# Introduction:<br/>It's all about me
+# Introduction:
+# It's all about me
 *********************************************************************************** 
 
 **College Experience**<br/>
@@ -25,9 +26,9 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 
 *********************************************************************************** 
 
-**Other web pages that I will be using:**
-## Unit 1 - Reflections
-- [Unit1 - Fundamentals of Programming in Python](https://angie-gh.github.io/unit1/)
+## Reflections
+- [Unit 1 - Reflections Programming in Python](https://angie-gh.github.io/unit1/)
+
 ## Future Topics
 - [Internet of Things (IoT)](https://angie-gh.github.io/adix.github.io/iot.md)
 - [Secure Scripting](https://angie-gh.github.io/adix.github.io/sec_script.md)
