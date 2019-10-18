@@ -1,33 +1,34 @@
 ## Hello I'm Angie! 
 
-# Introduction
+# Introduction - It's all about me
 *********************************************************************************** 
 
-### College Experience1
+**College Experience**<br/>
 I've taken previous IT college courses.
 
-### Computer Experience1
+**Computer Experience**<br/>
 I've had jobs in the computer industry.
 
-## Reason for taking the class
+**Reason for taking the class**<br/>
 To be able to write security-related scripts and automate IoT devices.
 
-## What might prevent success in an IT class
+**What might prevent success in an IT class**<br/>
 I need to read the chapters, listen while in class and ask questions otherwise 
 I might not do well in the course.
 
-## The most important thing in life
+**The most important thing in life**<br/>
 Being **honest**, **kind** and **finding happiness** each day is the most important thing.
 
-## Interests
+**Interests**<br/>
 I enjoy travel. _(But not to cold climates!)_  <br/>
 One of the most useful sites for travel planning is [Tripadvisor](https://www.tripadvisor.com/). 
 
 *********************************************************************************** 
 
-### Other web pages that I will be using:
-## Unit 1
+**Other web pages that I will be using:**
+## Unit 1 - Reflections
 - [Unit1 - Fundamentals of Programming in Python](https://angie-gh.github.io/unit1/)
+## Future Topics
 - [Internet of Things (IoT)](https://angie-gh.github.io/adix.github.io/iot.md)
 - [Secure Scripting](https://angie-gh.github.io/adix.github.io/sec_script.md)
 - [Data Analytics](https://angie-gh.github.io/adix.github.io/data_analytics.md)
