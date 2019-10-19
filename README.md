@@ -30,7 +30,7 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
   Here are my [Reflections on learning the Fundamentals of Python](https://angie-gh.github.io/unit1/)
 
 ## Future Topics
-- [Internet of Things (IoT)](https://angie-gh.github.io/adix.github.io/iot.md)
+- [Internet of Things (IoT)](./iot.md)
 - [Secure Scripting](https://angie-gh.github.io/adix.github.io/sec_script.md)
 - [Data Analytics](https://angie-gh.github.io/adix.github.io/data_analytics.md)
 - [Python Hackathon](https://angie-gh.github.io/adix.github.io/hackathon.md)
