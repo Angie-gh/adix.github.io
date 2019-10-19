@@ -1,3 +1,15 @@
 # This is Internet of Things (IoT) 
 
-https://github.com/Angie-gh/unit1/blob/7e1e38c047b778e1352df2186f7eaa749f597677/week03_password_generatorAngie.py#L83
+```
+from microbit import *
+
+while True:
+    potVal = pin2.read_analog()
+    #pin0.write_analog(potVal)
+    #sleep(potval)
+    pin0.write_digital(1)
+    sleep(potVal)
+    pin0.write_digital(0)
+    sleep(potVal)
+    a al;skdjfa;lksj a  alsdkfj a;sldkj a;lskdj a sdf;lkaj sd;lakjsdf;alksdjf ;asdf    asd;lkfja sd;lkja sd;lfkj asdf a;lsdkj a;lsdkfj a;lskdf a;lskd 
+```
