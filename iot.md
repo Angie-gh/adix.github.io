@@ -1,5 +1,6 @@
 # This is Internet of Things (IoT) 
 
+**Example of one of my first IoT python scripts:**
 ```
 from microbit import *
 
@@ -11,5 +12,5 @@ while True:
     sleep(potVal)
     pin0.write_digital(0)
     sleep(potVal)
-    a al;skdjfa;lksj a  alsdkfj a;sldkj a;lskdj a sdf;lkaj sd;lakjsdf;alksdjf ;asdf    asd;lkfja sd;lkja sd;lfkj asdf a;lsdkj a;lsdkfj a;lskdf a;lskd 
+   
 ```
