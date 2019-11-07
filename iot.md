@@ -30,11 +30,20 @@ Wow, the sky is the limit on what can be automated.  The micro:bit controller we
 	```
 - #### "speech" module
 	Although the sound volume is very limited, the "speech" module is an incredible tool for making an IoT device for someone with vision limitations.  Also, a coder is able to both generate new "music-like" tones as well as convert written text to audible sentences.
-	**Example of using a method from the Speech module:**
+	<br/>**Example of using a method from the Speech module:**
 	```
 	#>>>>>controller projects a verbal message via the speaker <<<<<
         speech.say(Encouragement_phrases[random_index], speed=120, pitch=100, throat=100, mouth=200)
 	```
+### Side Topic:  IoT and Javascript:
+Although the course is a study in "Python Programming", we experimented with pre-coded javascript solutions that demonstrate the bluetooth capabilities of a micro:bit controller.  With Javascript, one can easily code a device to interact with a mobile device via bluetooth and a mobile application.
+<br/>Note:  The micro:bit does not have a dedicated temperature sensor. Instead, the temperature provided is actually the temperature of the silicon die on the main CPU. As the processor generally runs cold though (it is a high efficiency ARM core), the temperature is a good approximation of the ambient temperature.  Reference:  https://makecode.microbit.org/reference/bluetooth/start-temperature-service
+<br/>**Javascript: Example of the single line of javascript code for accessing the temperature sensor:**
+```
+function startTemperatureService(): void;
+```
+<br/>**Screenshots of the micro:bit free mobile app that interacts with the built-in sensors, such as the Temperature sensor**
+<br/><img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/microbit_mobileapp_mainmenu.jpg" height="300" width="250">  <img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/microbit_mobileapp_monitorcontrol.jpg" height="300" width="250">
 
 ### How my programs differ from other coders:
 **Part A:**
