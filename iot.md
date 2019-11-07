@@ -36,8 +36,8 @@ Wow, the sky is the limit on what can be automated.  The micro:bit controller we
         speech.say(Encouragement_phrases[random_index], speed=120, pitch=100, throat=100, mouth=200)
 	```
 ### Side Topic:  IoT and Javascript:
-Although the course is a study in "Python Programming", we experimented with pre-coded javascript solutions that demonstrate the bluetooth capabilities of a micro:bit controller.  With Javascript, one can easily code a device to interact with a mobile device via bluetooth and a mobile application.
-<br/>Note:  The micro:bit does not have a dedicated temperature sensor. Instead, the temperature provided is actually the temperature of the silicon die on the main CPU. As the processor generally runs cold though (it is a high efficiency ARM core), the temperature is a good approximation of the ambient temperature.  Reference:  https://makecode.microbit.org/reference/bluetooth/start-temperature-service
+Although the course is a study in "Python Programming", we experimented with pre-coded javascript solutions that demonstrate the bluetooth capabilities of a micro:bit controller.  With Javascript, one can easily code an Iot device(micro:bit controller) to interact with a mobile device via bluetooth and a mobile application.
+<br/>Note:  Below we mention a "Temperature" sensor but the micro:bit does not have a dedicated temperature gauge. Instead, the temperature provided is actually the temperature of the silicon die on the main CPU. As the processor generally runs cold though (it is a high efficiency ARM core), the temperature is a good approximation of the ambient temperature.  Reference:  https://makecode.microbit.org/reference/bluetooth/start-temperature-service
 <br/>**Javascript: Example of the single line of javascript code for accessing the temperature sensor:**
 ```
 function startTemperatureService(): void;
