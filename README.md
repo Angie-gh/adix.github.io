@@ -27,10 +27,10 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 
 
 ## Unit 1 - Reflections
-  Here are my [Reflections on learning the Fundamentals of Python](https://angie-gh.github.io/unit1/)
+  [Reflections on learning the Fundamentals of Python](https://angie-gh.github.io/unit1/)
 
 ## Unit 2 - IoT
-  Here are my [Reflections on IoT - Programming a device with Python](./iot.md)
+  [Reflections on IoT - Programming a device with Python](./iot.md)
 
 ## Future Topics
 - [Secure Scripting](https://angie-gh.github.io/adix.github.io/sec_script.md)
