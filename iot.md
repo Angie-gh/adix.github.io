@@ -5,11 +5,11 @@
 *********************************************************************************** 
 
 ### Purpose of this page:
-We just finished a two week session on IoT and Python Programming.  We are reflecting on techniques and lessons learned while programming a micro:bit controller as well as reviewing Javascript logic that allowed for more impressive bluetooth connections. 
+We just finished a two week session on IoT and Python Programming.  We are reflecting on techniques and lessons learned while programming a micro:bit controller as well as reviewing Javascript logic that allows for more impressive bluetooth connections. 
 The below comments are specific to me.
 
 ### Overall reaction to scripting an IoT:
-Wow, the sky is the limit on what can be automated.  The micro:bit controller we used had many built in features (accelerometer, temperature gauge, LED display, built-in LED images).  Tapping into these features required minimal scripting. There is also sufficient sample scripts online to answer most questions on parameters and formating that is needed.     
+Wow, the sky is the limit on what can be automated.  The micro:bit controller we used has many built in features (such as: an accelerometer, temperature gauge, LED display and built-in LED images).  Tapping into these features requires minimal scripting. There are also sufficient online snipets of code to answer most questions regarding needed parameters as well as how one can format the output.     
 
 
 ### IoT modules that are useful to import into code:
@@ -22,14 +22,14 @@ Wow, the sky is the limit on what can be automated.  The micro:bit controller we
 	```
 	
 - #### "music" module
-	The "music" module allows the coder to reference pre-stored music.  The "" sound is particularly useful because it sounds like an error beep. 
+	The "music" module allows the coder to reference pre-stored music.  The "BA_DING" sound is particularly useful because it sounds like an error beep. 
 	**Example of using a method from the Music module:**
 	```
 	#>>>>>controller projects an error sound via the speaker <<<<<
         music.play(music.BA_DING)
 	```
 - #### "speech" module
-	Although the sound volume is very limited, the "speech" module is an incredible tool for making an IoT device for someone with vision limitations.  One is able to generate new sounds or convert written text to audible sentences.
+	Although the sound volume is very limited, the "speech" module is an incredible tool for making an IoT device for someone with vision limitations.  Also, a coder is able to both generate new "music-like" tones as well as convert written text to audible sentences.
 	**Example of using a method from the Speech module:**
 	```
 	#>>>>>controller projects a verbal message via the speaker <<<<<
