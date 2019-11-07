@@ -1,4 +1,4 @@
-# Unit 2 - Reflections: IoT - Programming a device with Python
+# Unit 2 - Reflections - IoT and Python
 ### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
 
 
