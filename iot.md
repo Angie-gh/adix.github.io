@@ -15,7 +15,7 @@ Wow, the sky is the limit on what can be automated.  The micro:bit controller we
 ### IoT modules that are useful to import into code:
 - ####  "from microbit import *" module
 	The "microbit" module allows the coder to access many of the built-in sensors of a micro:bit controller.  
-	**Example of accessing a sensor from the micro:bit controller:**
+	**Example of accessing an Accelerometer sensor on the micro:bit controller:**
 	```
 	#>>>>>We are using the "x" coordinate to indicate the right side of the card is being tilted <<<<<
         x = accelerometer.get_x()
@@ -23,7 +23,7 @@ Wow, the sky is the limit on what can be automated.  The micro:bit controller we
 	
 - #### "music" module
 	The "music" module allows the coder to reference pre-stored music.  The "BA_DING" sound is particularly useful because it sounds like an error beep. 
-	**Example of using a method from the Music module:**
+	<br/>**Example of using a method from the Music module:**
 	```
 	#>>>>>controller projects an error sound via the speaker <<<<<
         music.play(music.BA_DING)
