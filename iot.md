@@ -12,6 +12,17 @@ while True:
     pin0.write_digital(0)
     sleep(potVal)
 ```
+```
+#>>>>Continuously looping through the program so that user can use the "a" and "b" buttons to start and stop<<<
+while True:
+    #>>>>>Checking to see if user has indicated that they want to start monitoring of tilts <<<<<
+    if button_a.is_pressed() or continue_monitor==True:
+        #>>>>>Below flag set to have more control over whether user intention is to enable monitoring <<<<<
+        continue_monitor=True
+        #>>>>>Obtaining x value from the accelerometer.  Based on the way the controller is placed on the head, 
+        #>>>>>We are using the "x" coordinate to indicate the right side of the card is being tilted <<<<<
+        x = accelerometer.get_x()
+```
 # Unit 2 - Reflections: IoT - Programming a device with Python
 ### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
 
