@@ -105,8 +105,7 @@ This device provides the following:
     A repeated audible alarm when head is tilted.
     A random message is repeated, that are customized sentences typed by the instructor, that encourages the user to lift their head.
 - Once the user lifts their head, all sounds stop and the green LED displays.
-&nbsp &nbsp<img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/IoT_headset.jpg" height="300" width="250">
-<img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/IoT_standalone_headset.jpg" height="300" width="250">
+&nbsp &nbsp<img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/IoT_headset.jpg" height="300" width="250">&nbsp &nbsp<img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/IoT_standalone_headset.jpg" height="300" width="250">
 *********************************************************************************** 
 
 ### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
