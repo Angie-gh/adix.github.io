@@ -105,8 +105,8 @@ This device provides the following:
     A repeated audible alarm when head is tilted.
     A random message is repeated, that are customized sentences typed by the instructor, that encourages the user to lift their head.
 - Once the user lifts their head, all sounds stop and the green LED displays.
-![Head-tilt Dance Headset](IoT_headset.jpg)
-![Head-tilt Dance Headset](IoT_standalone_headset.jpg)
+![Head-tilt Dance Headset](IoT_headset.jpg){:class="img-responsive"}
+![Head-tilt Dance Headset](IoT_standalone_headset.jpg){:class="img-responsive"}
 *********************************************************************************** 
 
 ### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
