@@ -88,6 +88,10 @@ This device provides the following:
     <br/>- A repeated audible alarm when head is tilted.
     <br/>- A random message is repeated that encourages the user to lift their head.  The message is randomly selected from a list of customized phrases that are typed into the system by the instructor. 
 - Once the user lifts their head, all sounds stop and the green LED displays.  <br/><img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/IoT_headset.jpg" height="300" width="250">  <img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/IoT_standalone_headset.jpg" height="300" width="250">
+
+### Sample IoT Program
+- [Photoresister with Image Displays](https://github.com/Angie-gh/unit2/blob/master/photoresister_withImageDisplays_githubversion.py)
+<br/>
 *********************************************************************************** 
 
 ### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
