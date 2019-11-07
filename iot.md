@@ -86,7 +86,7 @@ This device provides the following:
 - A red blinking LED, placed at eye level, that alerts the user if the user has tilted their head to a level that will interfere with their dancing.
 - A small speaker is placed near the user's ear that provides:
     <br/>- A repeated audible alarm when head is tilted.
-    <br/>- A random message is repeated, that are customized sentences typed by the instructor, that encourages the user to lift their head.
+    <br/>- A random message is repeated that encourages the user to lift their head.  The message is randomly selected from a list of customized phrases that are typed into the system by the instructor. 
 - Once the user lifts their head, all sounds stop and the green LED displays.  <br/><img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/IoT_headset.jpg" height="300" width="250">  <img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/IoT_standalone_headset.jpg" height="300" width="250">
 *********************************************************************************** 
 
