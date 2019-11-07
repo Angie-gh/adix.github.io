@@ -43,7 +43,7 @@ Although the course is a study in "Python Programming", we experimented with pre
 function startTemperatureService(): void;
 ```
 <br/>**Screenshots of the micro:bit free mobile app that interacts with the built-in sensors via Javascript and Bluetooth.**
-The below second screenshot is the "Monitor and Control" menu option that will display the results of the micro:bit temperature gauge, as long as the above minimal line(s) of Javascript code have been downloaded to the micro:bit controoler.**
+The below second screenshot is the "Monitor and Control" menu option that will display the results of the micro:bit temperature gauge, as long as the above minimal line(s) of Javascript code have been downloaded to the micro:bit controller.
 <br/><img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/microbit_mobileapp_mainmenu.jpg" height="300" width="250">  <img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/microbit_mobileapp_monitorcontrol.jpg" height="300" width="250">
 
 ### How my programs differ from other coders:
