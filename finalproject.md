@@ -43,6 +43,7 @@ This script should be scheduled to be run as a daily task from a computer.  Even
 their episodes on specific days, this script will text message the recipient if they release them earlier.
 
 ### Video - Review of code and Demonstration:
+<video src="testrecording1.mp4" poster="poster1.jpg" width="320" height="200" controls preload></video>
 
 ### Sample web-scraping script
 - [web scraping with text message](https://github.com/Angie-gh/unit2/blob/master/photoresister_withImageDisplays_githubversion.py)
