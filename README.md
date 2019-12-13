@@ -32,11 +32,11 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 ## Unit 2 - Reflections - IoT and Python
   [Reflections on IoT - Programming a device with Python](./iot.md)
 
-## Future Topics
-- [Secure Scripting](https://angie-gh.github.io/adix.github.io/sec_script.md)
-- [Data Analytics](https://angie-gh.github.io/adix.github.io/data_analytics.md)
-- [Python Hackathon](https://angie-gh.github.io/adix.github.io/hackathon.md)
-
+## Unit 3 - Reflections - Secure Scripting
+  Subject not taught.  A book was recommended.
+  
+## Unit 4 - Reflections - Final Project
+  [Reflections on Final Project - Text Messaging Web-Scraping Results](./finalproject.md.md)
 
 ![Favorite Animal](Koala.jpg)
 
