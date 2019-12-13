@@ -34,8 +34,8 @@ This script has been written for a specific podcast (**Armchair Expert**) but ca
 
 ### Contents of each Text Message:  
 The text message will contain the following information: 
+- Episode Published Date<br/>
 - Guest's Name<br/> 
-- Episode Published Date<br/> 
 - Optional -- Background Information about the guest (Sometimes the person is not a public figure)<br/>
 <img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/screenshot_sample_text_msg.jpeg" height="400" width="250">
 
