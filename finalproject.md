@@ -7,7 +7,7 @@
 ### Purpose of this page:
 This is a presentation/demonstration of a final project(Hackathon) in a video.
 
-### Python functionalty that was included in the final project:
+### Highlighted Python functionalty included in this final project:
 Text messaging implemented to communicate web scraping results from a Podcast website.
 
 ### Modules used in this project:  
