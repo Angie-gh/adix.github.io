@@ -1,5 +1,4 @@
 # Unit 4 - Reflections - Final Project 
-(Text messaging Web scraping results from a Podcast site)
 ### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
 
 
@@ -7,6 +6,9 @@
 
 ### Purpose of this page:
 This is a presentation/demonstration of a final project(Hackathon) in a video.
+
+### Python functionalty that was included in the final project:
+Text messaging implemented to communicate web scraping results from a Podcast website.
 
 ### Modules used in this project:  
 The below modules (**Requests**, **Sys**, **Webbrowser**, **Beautiful Soup** and **Twilio**) were instrumental in accomplishing this script.
