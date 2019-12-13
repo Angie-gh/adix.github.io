@@ -36,7 +36,7 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
   Subject not taught.  A book was recommended.
   
 ## Unit 4 - Reflections - Final Project
-  [Reflections on Final Project - Text Messaging Web-Scraping Results](./finalproject.md.md)
+  [Reflections on Final Project - Text Messaging Web-Scraping Results](./finalproject.md)
 
 ![Favorite Animal](Koala.jpg)
 
