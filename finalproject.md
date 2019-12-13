@@ -37,7 +37,7 @@ The text message will contain the following information:
 - Guest's Name</br> 
 - Episode Published Date</br> 
 - Optional -- Background Information about the guest (Sometimes the person is not a public figure)</br>
-<img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/screenshot_sample_text_msg.jpg" height="300" width="250">
+<img src="https://raw.githubusercontent.com/Angie-gh/adix.github.io/master/screenshot_sample_text_msg.jpeg" height="400" width="250">
 
 ### Implementing the script:
 This script should be scheduled to be run as a daily task from a computer.  Even if the podcast site markets that they release 
