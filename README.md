@@ -1,6 +1,5 @@
-## Python Scripting - Summary 
+## ADixon - Python Scripting Course Summary 
 
-# Python Sections Covered:
 *********************************************************************************** 
 
 ## Unit 1 - Reflections - Python
