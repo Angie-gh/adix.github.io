@@ -5,7 +5,7 @@
 *********************************************************************************** 
 
 ### Purpose of this page:
-This is a presentation/demonstration of a final project(Hackathon) in a video.
+Below is a recorded presentation of a python script review that incorporates features of Twilio.
 
 ### Highlighted Python functionalty included in this final project:
 Text messaging implemented to communicate web scraping results from a Podcast website.
