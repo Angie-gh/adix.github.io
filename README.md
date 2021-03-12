@@ -1,30 +1,7 @@
-## Hello I'm Angie! 
+## Python Scripting - Summary 
 
-# Introduction:
+# Python Sections Covered:
 *********************************************************************************** 
-
-**College Experience**<br/>
-I've taken previous IT college courses.
-
-**Computer Experience**<br/>
-I've had jobs in the computer industry.
-
-**Reason for taking the class**<br/>
-To be able to write security-related scripts and automate IoT devices.
-
-**What might prevent success in an IT class**<br/>
-I need to read the chapters, listen while in class and ask questions otherwise 
-I might not do well in the course.
-
-**The most important thing in life**<br/>
-Being **honest**, **kind** and **finding happiness** each day is the most important thing.
-
-**Interests**<br/>
-I enjoy travel. _(But not to cold climates!)_  <br/>
-One of the most useful sites for travel planning is [Tripadvisor](https://www.tripadvisor.com/). 
-
-*********************************************************************************** 
-
 
 ## Unit 1 - Reflections - Python
   [Reflections on learning the Fundamentals of Python](https://angie-gh.github.io/unit1/)
@@ -32,17 +9,8 @@ One of the most useful sites for travel planning is [Tripadvisor](https://www.tr
 ## Unit 2 - Reflections - IoT and Python
   [Reflections on IoT - Programming a device with Python](./iot.md)
 
-## Unit 3 - Reflections - Secure Scripting
-  Subject not taught.  A book was recommended.
-  
 ## Unit 4 - Reflections - Final Project
   [Reflections on Final Project - Text Messaging Web-Scraping Results](./finalproject.md)
-
-![Favorite Animal](Koala.jpg)
-
-```markdown
-DISCLAIMER:  Most of the above information is intentionally generic.  
-```
 
 
 
