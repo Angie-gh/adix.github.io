@@ -1,5 +1,5 @@
 # Unit 2 - Reflections - IoT and Python
-### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
+### [Return to AAD Home](https://angie-gh.github.io/adix.github.io/)
 
 
 *********************************************************************************** 
@@ -94,6 +94,6 @@ This device provides the following:
 <br/>
 *********************************************************************************** 
 
-### [Return to Angie Home](https://angie-gh.github.io/adix.github.io/)
+### [Return to AAD Home](https://angie-gh.github.io/adix.github.io/)
 
 
